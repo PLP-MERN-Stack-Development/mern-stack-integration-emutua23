@@ -1,4 +1,4 @@
-# Week 4 MERN Blog App - Enhanced Edition
+# Week 4 MERN Blog App
 
 A production-ready full-stack MERN (MongoDB, Express, React, Node.js) blog application with comprehensive features including user authentication, categories, comments, search, pagination, and more. Built with modern UI using React, Tailwind CSS, and Radix UI components.
 
