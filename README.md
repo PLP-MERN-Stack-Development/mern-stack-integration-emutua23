@@ -14,7 +14,7 @@ Check out the `screenshots/` folder to see the application in action:
 
 ## 📋 Table of Contents
 
-- [[Screenshots](#screenshots)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
